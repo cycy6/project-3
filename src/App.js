@@ -24,7 +24,7 @@ function App() {
         <SideDrawer show={sideDrawerOpen} />
         <Backdrop />
         <main style={{marginTop: '64px'}}>
-          <p> THis is Page content</p>
+          <p> Put your stuff here</p>
         </main>
       </div>
   );
